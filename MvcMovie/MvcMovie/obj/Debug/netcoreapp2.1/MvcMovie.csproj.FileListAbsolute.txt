@@ -30,3 +30,5 @@ C:\Users\Calvin Huynh\Documents\github\c#_webApp\MvcMovie\MvcMovie\obj\Debug\net
 C:\Users\Calvin Huynh\Documents\github\c#_webApp\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.dll
 C:\Users\Calvin Huynh\Documents\github\c#_webApp\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.pdb
 C:\Users\Calvin Huynh\Documents\github\c#_webApp\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.csproj.CopyComplete
+C:\Users\Calvin Huynh\Documents\github\c#_webApp\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\Razor\Views\HelloWorld\Index.g.cshtml.cs
+C:\Users\Calvin Huynh\Documents\github\c#_webApp\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
